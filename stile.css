@@ -274,21 +274,21 @@ body{
 
  @media screen and (max-width: 425px){
     body{
-        max-width: 320px;
+        max-width: 425px;
         width: 100%;
     }
 }  
 
 @media screen and (max-width: 425px){
     .footer,.header,.content{
-        max-width: 320px;
+        max-width: 425px;
         width: 100%;
     }
 }
 
 @media screen and (max-width: 425px){
     .content{
-        max-width: 320px;
+        max-width: 425px;
         width: 100%;
         margin-top: 60px;
     }
